@@ -1,0 +1,52 @@
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+ 
+}
+
+
+.head{
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+    justify-content: center;
+    font-weight: 600; 
+    font-size: 2rem;
+
+}
+
+.img {
+    width:5rem;
+    height:5rem;
+    margin-left: -2rem;
+}
+
+
+
+.imgHold {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+   
+}
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.heading1{
+    font-family: 'poppins';
+    text-align: center;
+    font-weight: 600;
+    font-size: .9rem;
+    margin-top: -1rem;
+}
+.ic{
+    color: green;
+}

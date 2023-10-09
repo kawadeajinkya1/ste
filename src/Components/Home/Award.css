@@ -1,0 +1,27 @@
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+.head{
+
+  font-family: 'Roboto', sans-serif;
+  justify-content: center;
+    text-align: center;
+    font-weight: 600; 
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+
+.im1{
+height:25rem;
+width:25rem;
+}
+
+.im2{
+    height:27rem;
+    width:25rem;
+
+    }

@@ -1,0 +1,402 @@
+/*
+
+.s1{
+    background-color: white;
+    padding: 2rem;
+}
+
+.AccHold {
+
+    place-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+   
+    background-color: white;
+    border: 2px solid black;
+
+}
+
+.left {
+    gap: .7rem;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.right {
+   width: auto;
+    height: 29rem;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 2rem;
+    
+}
+
+
+
+.AccBtn {
+    border: none;
+    width: 11rem;
+    height: 3.5rem;
+    border-radius: 0.3rem;
+    background-color: white;
+    color: black;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+    height: 4rem;
+}
+
+.AccBtn11 {
+    border-radius: 0.3rem;
+    border-radius: 0.3rem;
+    border: none;
+    width: 11rem;
+    height: 4rem;
+    color: white;
+    background-color: rgb(8, 146, 171);
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.AccBtn:hover {
+    color:red;
+    border: 2px solid navy;
+
+}
+
+.accContainIn {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 0.5rem;
+    margin-left: 0rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.rightIcon {
+    margin-top: 0rem;
+    margin-right: 0.3rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    
+}
+.rightTxt{
+    text-align: left;
+}
+.Product1{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+ 
+.SProduct1{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.accContainIn{
+    display: block;
+}
+
+
+.lala{
+    display: flex;
+}
+.PD{
+    width: 28rem;
+    text-align: center;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.aji {
+  text-align: center;
+  margin-left: 10rem;
+  margin-top: -4rem;
+  
+}
+.bro{
+    display: block;
+    margin-top: -1rem;
+}
+
+.Product2{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.SProduct2{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.Product3{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.SProduct3{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.Product4{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.SProduct4{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.Product5{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.SProduct5{
+    display: flex;
+    gap: 3.5rem;
+}
+
+.Product6{
+    width: 30rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.SProduct6{
+    display: flex;
+    gap: 3.5rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0rem;
+    
+  }
+  
+  td, th {
+    border: 1px solid;
+    text-align: center;
+    padding: 8px;
+  
+    
+  }
+
+  .Productmains{
+    background-image: linear-gradient(rgba(2,80,132,0.8),rgb(0,20,198));
+    width: 100%;
+    height: 15rem;
+    margin-top: 5rem;
+  }
+  .Productmains h1{
+    color: white;
+    padding: 6rem;
+    text-align: center;
+    font-size: 2.5rem;
+  }
+*/
+
+
+.s1{
+    background: white;
+    padding: 2rem;
+}
+
+.AccHold {
+
+    place-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    background: white;
+margin-top: 2rem;;
+    padding: 2rem;
+
+}
+
+
+.left {
+    gap: .2rem;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.right {
+   width: auto;
+    height: auto;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 2rem;
+    border: 1px solid red;
+   
+}
+
+
+
+.AccBtn {
+    border: none;
+    width: 11rem;
+    height: 3.5rem;
+    border-radius: 0.3rem;
+    background-color: whitesmoke;
+    color: black;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+    height: 4rem;
+}
+
+.AccBtn11 {
+    border-radius: 0.3rem;
+    border-radius: 0.3rem;
+    border: none;
+    width: 11rem;
+    height: 4rem;
+    color: red;
+    background-color: whitesmoke;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.AccBtn:hover {
+    color:red;
+    width: 11rem;
+    height: 4rem;
+    border: 2px solid navy;
+background-color: aliceblue;
+}
+
+.accContainIn {
+    display:block;
+    justify-content: center;
+    gap: 0.5rem;
+
+}
+
+
+.SProduct1{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding:1rem;
+   gap:1rem;
+   
+}
+
+.Product1{
+    width: 20rem;
+    height: 15rem;
+    padding:2rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0rem;
+
+    border: 0.7px solid black;
+    
+  }
+  
+  td{
+    text-align: center;
+    padding: 0.5rem;
+    border: 0.7px solid black;
+    font-weight: 200;
+    font-family: "poppins";
+    font-size: 0.9rem;
+  } 
+
+ th {
+    border: 0.7px solid black;
+    text-align: center;
+    padding: 0.5rem;
+color:brown;
+    
+  }
+
+ 
+.hed{
+
+    color:red
+}
+
+
+
+.SProduct11{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding:1rem;
+   gap:3rem;
+   
+}
+
+
+.pd{
+
+width:130%;
+text-align: justify;
+font-family: "Poppins";
+
+}
+
+
+.aji{
+
+    width:70%;
+    text-align: center;
+    font-family: "Poppins";
+
+}
+
+.bro{
+display:block;
+}
+
+
+.Productmains{
+   
+    width: 100%;
+    height: 8rem;
+   padding: 1.5rem;
+  
+  }
+  .Productmains h1{
+    color: rgba(205, 39, 39, 0.836);
+font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .Productmains p{
+    color: navy;
+ font-family: "poppins";
+    text-align: center;
+ 
+  }
+
+  .PD
+  {
+    font-family: "Poppins";
+  }
