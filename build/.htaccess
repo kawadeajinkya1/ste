@@ -7,5 +7,5 @@
   RewriteCond %{REQUEST_FILENAME} !-1
   RewriteRule . /index.html [L]
 
-
+  ErrorDocument 404 http://ste.exads.in/
 </IfModule>
