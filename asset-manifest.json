@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ste/static/css/main.fb58219c.css",
-    "main.js": "/ste/static/js/main.6b4e82fc.js",
+    "main.css": "/ste/static/css/main.162eb528.css",
+    "main.js": "/ste/static/js/main.e370a3bb.js",
     "static/js/787.32df0628.chunk.js": "/ste/static/js/787.32df0628.chunk.js",
     "static/media/herobg (2).jpg": "/ste/static/media/herobg (2).7b742a6da08cd8d32bee.jpg",
     "static/media/heart.gif": "/ste/static/media/heart.3da8786bcd0853d69489.gif",
+    "static/media/linearboshe.webp": "/ste/static/media/linearboshe.75ce0914f7d7c1e49c01.webp",
     "static/media/contact.jpg": "/ste/static/media/contact.8fed059d1e37d32aea3f.jpg",
     "static/media/award1.jpeg": "/ste/static/media/award1.cda03cbeb80437cb7b2a.jpeg",
-    "static/media/tools1.jpeg": "/ste/static/media/tools1.294750cf88eeeb309dda.jpeg",
     "static/media/stelogo.jpg": "/ste/static/media/stelogo.0024f692f8d8f21cd9de.jpg",
     "static/media/pd (3).png": "/ste/static/media/pd (3).2e7202b449fbbd107a4f.png",
     "static/media/pd (4).png": "/ste/static/media/pd (4).8aaa4a41f435b9d0df74.png",
@@ -42,13 +42,14 @@
     "static/media/surface.webp": "/ste/static/media/surface.84ba316515cca740da9c.webp",
     "static/media/artificial-intelligence.png": "/ste/static/media/artificial-intelligence.2bc223e0cfd88c019afd.png",
     "static/media/money.png": "/ste/static/media/money.1c681b65adab5daa2103.png",
+    "static/media/ni.jpg": "/ste/static/media/ni.5882c20d3ddf67c36e30.jpg",
+    "static/media/pk.webp": "/ste/static/media/pk.04f72f05b9438df4026f.webp",
     "static/media/customer-support.png": "/ste/static/media/customer-support.2fed71646f416ea6afdc.png",
     "static/media/cylindrical-grinding-works.webp": "/ste/static/media/cylindrical-grinding-works.481f93b8230b67ab590b.webp",
     "static/media/ask.png": "/ste/static/media/ask.8a073a0979e8d0af8793.png",
     "static/media/carbidecutters.webp": "/ste/static/media/carbidecutters.04c9025733401f5b1b13.webp",
     "static/media/hobbing-fixture-sleeves-.webp": "/ste/static/media/hobbing-fixture-sleeves-.2bc1ef7d06764475fd2a.webp",
     "static/media/carbide-dead-centers-.webp": "/ste/static/media/carbide-dead-centers-.a23f9ea422e707e65752.webp",
-    "static/media/tool-room-components.jpg": "/ste/static/media/tool-room-components.6e9823e97438c30583a7.jpg",
     "static/media/cus.png": "/ste/static/media/cus.1fc5d02a512b77adaaa0.png",
     "static/media/linkedin.png": "/ste/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "static/media/carbide-half-dead-centers.webp": "/ste/static/media/carbide-half-dead-centers.88146fec894ba1b7b08f.webp",
@@ -61,18 +62,17 @@
     "static/media/clamp-rod-.webp": "/ste/static/media/clamp-rod-.a77dca5186af6fcb64bd.webp",
     "static/media/corepnproduct.webp": "/ste/static/media/corepnproduct.450c3535ccd5ec26e718.webp",
     "static/media/diamond.webp": "/ste/static/media/diamond.43f80c68908e9f8f2f5c.webp",
+    "index.html": "/ste/index.html",
     "static/media/slick.svg": "/ste/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/ste/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/ste/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/hss-cutters-resharpening.webp": "/ste/static/media/hss-cutters-resharpening.9f12704c2240e79b94ac.webp",
     "static/media/slick.woff": "/ste/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ste/index.html",
-    "main.fb58219c.css.map": "/ste/static/css/main.fb58219c.css.map",
-    "main.6b4e82fc.js.map": "/ste/static/js/main.6b4e82fc.js.map",
+    "main.162eb528.css.map": "/ste/static/css/main.162eb528.css.map",
+    "main.e370a3bb.js.map": "/ste/static/js/main.e370a3bb.js.map",
     "787.32df0628.chunk.js.map": "/ste/static/js/787.32df0628.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb58219c.css",
-    "static/js/main.6b4e82fc.js"
+    "static/css/main.162eb528.css",
+    "static/js/main.e370a3bb.js"
   ]
 }
