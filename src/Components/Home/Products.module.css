@@ -1,0 +1,85 @@
+.contain {
+    padding: 2rem;
+    margin:-0.5rem;
+}
+
+.hold {
+
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 11rem;
+    height: 13rem;
+    border: none;
+   
+    border-radius:0 0 2rem 0;
+    box-shadow: 1px 1px 10px 1px rgb(171, 170, 170);
+}
+
+.imgHold {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+   margin-left: 0rem;
+}
+
+.btn{
+    background: none;
+    border-radius: 2rem;
+    border: 0.02rem solid black;
+    padding:0.5rem;
+    height:1.5rem;
+    width:7rem;
+    text-decoration: none;
+}
+
+.rdm{
+    text-decoration: none;
+    color:black;   
+}
+
+.img {
+    width: 9rem;
+    height: 8rem;
+
+}
+
+
+
+.headhold{
+    font-family: 'Fjalla One';
+    padding:0.4rem;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: relative;
+top:-7rem;
+    text-align: center;
+  }
+  
+  .contain:hover .imgHold {
+    opacity: 0.1;
+  }
+  
+  .contain:hover .middle {
+    opacity: 1;
+  }
+
+  .text{
+    color:black
+  }
+
+
+@media screen and (max-width:768px) {
+
+    
+}

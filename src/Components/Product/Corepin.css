@@ -1,0 +1,287 @@
+
+
+.s1{
+    background: white;
+    padding: 2rem;
+}
+
+.AccHold {
+
+    place-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    background: white;
+margin-top: 2rem;;
+    padding: 2rem;
+
+}
+
+
+.left {
+    gap: .2rem;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.right {
+   width: auto;
+    height: auto;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 2rem;
+    border: 1px solid red;
+   
+}
+
+
+
+.AccBtn {
+    border: none;
+    width: 11rem;
+    height: 3.5rem;
+    border-radius: 0.3rem;
+    background-color: whitesmoke;
+    color: black;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+    height: 4rem;
+}
+
+.AccBtn11 {
+    border-radius: 0.3rem;
+    border-radius: 0.3rem;
+    border: none;
+    width: 11rem;
+    height: 4rem;
+    color: red;
+    background-color: whitesmoke;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.AccBtn:hover {
+    color:red;
+    width: 11rem;
+    height: 4rem;
+    border: 2px solid navy;
+background-color: aliceblue;
+}
+
+.accContainIn {
+    display:block;
+    justify-content: center;
+    gap: 0.5rem;
+
+}
+
+
+.SProduct1{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding:1rem;
+   gap:1rem;
+   
+}
+
+.Product1{
+    width: 20rem;
+    height: 15rem;
+    padding:2rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0rem;
+
+    border: 0.7px solid black;
+    
+  }
+  
+  td{
+    text-align: center;
+    padding: 0.5rem;
+    border: 0.7px solid black;
+    font-weight: 200;
+    font-family: "poppins";
+    font-size: 0.9rem;
+  } 
+
+ th {
+    border: 0.7px solid black;
+    text-align: center;
+    padding: 0.5rem;
+color:brown;
+    
+  }
+
+ 
+.hed{
+
+    color:red
+}
+
+
+
+.SProduct11{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding:1rem;
+   gap:3rem;
+   
+}
+
+
+.pd{
+
+width:130%;
+text-align: justify;
+font-family: "Poppins";
+
+}
+
+
+.aji{
+
+    width:70%;
+    text-align: center;
+    font-family: "Poppins";
+
+}
+
+.bro{
+display:block;
+}
+
+
+.Productmains{
+   
+    width: 100%;
+    height: 8rem;
+   padding: 1.5rem;
+  
+  }
+  .Productmains h1{
+    color: rgba(205, 39, 39, 0.836);
+font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .Productmains p{
+    color: navy;
+ font-family: "poppins";
+    text-align: center;
+ 
+  }
+
+  .PD
+  {
+    font-family: "Poppins";
+  }
+
+
+
+
+
+  @media screen and (max-width:768px)
+  {
+
+    .AccHold {
+
+        place-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 1rem;
+        background: white;
+    margin-top: 2rem;;
+        padding: 0.5rem;
+        margin-left: -1rem;
+    
+    }
+
+
+    .left {
+        gap: .2rem;
+        width: 15rem;
+        margin-top:15rem;
+        margin-left: 5rem;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    .right {
+       width: 98vw;
+        
+        background-color: white;
+        border-radius: 2rem;
+   
+        border: 1px solid red;
+       
+    }
+
+
+    
+.SProduct1{
+    display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   padding:1rem;
+   gap:1rem;
+   
+}
+
+
+.SProduct11{
+    display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   padding:1rem;
+   gap:3rem;
+   
+}
+
+.PD
+  {
+    font-family: "Poppins";
+    padding-left:1rem;
+    text-align: center;
+  }
+
+  .pd{
+width:100%;
+   padding: 0.5rem;
+    text-align: justify;
+    font-family: "Poppins";
+    
+    }
+
+  .Productmains{
+   
+    width: 100%;
+    height: 8rem;
+margin-left: -1.5rem;
+  
+  }
+
+
+  .aji{
+
+    width:100%;
+    text-align: center;
+    font-family: "Poppins";
+
+}
+
+  }

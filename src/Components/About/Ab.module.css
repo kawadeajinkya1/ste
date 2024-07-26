@@ -1,0 +1,53 @@
+.toxicmain{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    justify-content: space-around;
+    font-family: 'Poppins';  
+   padding:2rem
+}
+
+
+
+.logo1{
+    width:6rem;
+    height:6rem;
+}
+
+
+.title{
+    color: red;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.nine{
+    color:red; 
+}
+
+.toxic{
+    border:1px solid black;
+    margin: 1rem;
+}
+
+.toxic p{
+    font-size: .9rem;
+  padding:1rem;
+  padding-top: 0.5rem;
+  text-align: justify;
+
+  font-family: "Poppins";
+}
+
+@media screen and (max-width:768px)
+{
+    .toxicmain{
+        display: flex;
+        flex-direction: column;
+        width: 95%;
+        justify-content: space-around;
+        font-family: 'Poppins';  
+     margin-left: -1.5rem;
+    }
+    
+}

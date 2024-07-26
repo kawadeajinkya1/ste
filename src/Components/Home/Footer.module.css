@@ -1,0 +1,106 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 1rem;
+    padding-bottom: 0;
+    background: rgb(255, 255, 255);
+    margin-top: 5rem;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .3);
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: space-around;
+}
+.row1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.row1 .logo img{
+    width: 6rem;
+    margin-left: -1rem;
+}
+.row1 .address{
+    width: 18rem;
+    text-align: center;
+}
+.row1 .icon img{
+    width: 1.5rem;
+    margin-right: 1rem;
+}
+.row2 .lnk{
+    text-decoration: none;
+    color: black;
+}
+
+.row4 iframe{
+    width: 17rem;
+    height: 13rem;
+    border: 0;
+}
+
+.bottom p{
+    text-align: center;
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+.bottom .heart{
+    width: 1rem;
+}
+
+.lnk{
+    text-decoration: none;
+    color:black;
+
+}
+
+.lnkfz{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+@media screen and (max-width:768px){
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding:-1rem;
+        margin-left: -1rem;
+        padding-bottom: 0;
+        background: rgb(255, 255, 255);
+        margin-top: 5rem;
+        box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .3);
+    }
+    .top{
+        display: flex;
+        flex-direction: column;
+        align-items: top;
+        justify-content: space-around;
+    }
+
+    .row2, .row3{
+        text-align: center;
+    }
+    .row4{
+        display: flex;
+        justify-content: center;
+    }
+
+    .lnkfz{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        
+    }
+    .lnkf{
+        margin:0.5rem
+    }
+}

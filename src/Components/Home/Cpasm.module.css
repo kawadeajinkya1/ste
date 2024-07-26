@@ -1,0 +1,66 @@
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+ 
+}
+
+
+.head{
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+    justify-content: center;
+    font-weight: 600; 
+    font-size: 2rem;
+
+}
+
+.img {
+    width:5rem;
+    height:5rem;
+ 
+}
+
+
+
+.imgHold {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+   
+}
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color:red;
+}
+
+.heading1{
+    font-family: 'poppins';
+    text-align: center;
+    font-weight: 600;
+    font-size: .9rem;
+    margin-top: -1rem;
+}
+.ic{
+    color: green;
+}
+
+
+@media screen and (max-width:768px)
+{
+    .row{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-around;
+    
+     
+    }
+   
+}

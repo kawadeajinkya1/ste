@@ -1,0 +1,23 @@
+.aka1{
+     width: 100%;
+     display: flex;
+
+}
+.img{
+    width: 100%;
+    position: relative;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  td, th {
+    border: 1px solid ;
+    text-align: left;
+    padding: 8px;
+   
+  }
+  
